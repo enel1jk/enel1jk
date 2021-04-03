@@ -1,7 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=enel1jk&count_private=true&show_icons=true&hide_border=true&bg_color=173F4F&title_color=73ba25&text_color=fafafa&icon_color=868e96)
 
-[![openSUSE](https://en.opensuse.org/images/4/44/Sticker-Logo-white.png)](https://www.opensuse.org/)
-
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=enel1jk&count_private=true&show_icons=true&bg_color=173F4F&title_color=73ba25&text_color=fafafa&icon_color=73ba25)
 -->
